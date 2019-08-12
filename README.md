@@ -1,6 +1,6 @@
 # Typescript Seed project
 
-This is a barebones set up for a running application with Typescript and Node.
+This is a barebones setup for a running application with Typescript and Node.
 
 Features:
 
