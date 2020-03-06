@@ -15,7 +15,7 @@ Features:
 
 ## Using this seed
 
-Fork this repo and start coding adding code to the `src/` directory.
+Fork this repo and start adding code to the `src/` directory.
 
 ## Developing
 
