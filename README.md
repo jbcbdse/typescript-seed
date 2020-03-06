@@ -8,7 +8,8 @@ Features:
 - Typescript installed as dev dependency
 - `yarn watch` configured with nodemon and ts-node
 - `yarn watch:debug` configured with `--inspect-brk` flag
-- tsconfig and tslint configs set up with sensible defaults
+- tsconfig with sensible defaults
+- eslint with typescript and prettier plugins with recommended defaults
 - jest configured for unit testing with sensible defaults
 - This README
 

@@ -8,6 +8,7 @@
     "lint": "eslint ./src/**/*.ts",
     "start": "node dist/index.js",
     "test": "jest",
+    "tdd": "yarn test --watch",
     "watch": "nodemon --watch 'src/**/*.ts' --ignore 'src/**/*.test.ts' --exec node -r ts-node/register src/index.ts",
     "watch:debug": "nodemon --watch 'src/**/*.ts' --ignore 'src/**/*.test.ts' --exec node -r ts-node/register --inspect-brk src/index.ts"
   },
