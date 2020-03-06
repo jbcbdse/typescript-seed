@@ -23,7 +23,7 @@ Do initial package install with `yarn`
 
 Develop and test the running application with `yarn watch` or `yarn watch:debug`
 
-Run unit tests with `yarn test`
+Run unit tests with `yarn test` or run in watch mode with `yarn tdd`
 
 ## Run your application
 
@@ -33,5 +33,4 @@ Run the app with `npm start`
 
 ## Contributing
 
-Feel free to add more sensible defaults for a basic node application, such as a "prettier" config, if that would
-best, or a `yarn tdd` script for running tests in a watch mode.
+Feel free to add more sensible defaults for a basic node application.
